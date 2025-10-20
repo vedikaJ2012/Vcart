@@ -20,6 +20,7 @@ import hero from './hero.jpg'
 import exchange from './exchange.jpg'
 import quality from './quality.jpg'
 import support from './support.jpg'
+import crossIcon from './crossIcon.jpg'
 
 export const assets = {
     logo,
@@ -31,7 +32,8 @@ export const assets = {
     hero,
     exchange,
     quality,
-    support
+    support,
+    crossIcon
 }
 
 export const products = [
@@ -54,7 +56,7 @@ export const products = [
         price: 250,
         image: [p2i1, p2i2],
         category: "Men",
-        subCategory: "Shirt",
+        subCategory: "Topwear",
         sizes: ["M", "L", "XL"],
         date: 1716635355448,
         bestseller: false
@@ -66,7 +68,7 @@ export const products = [
         price: 1200,
         image: [p3i1],
         category: "Footwear",
-        subCategory: "Shoes",
+        subCategory: "Winterwear",
         sizes: ["7", "8", "9", "10"],
         date: 1716636355448,
         bestseller: true
@@ -90,7 +92,7 @@ export const products = [
         price: 800,
         image: [p5i1, p5i2],
         category: "Women",
-        subCategory: "Jacket",
+        subCategory: "Winterwear",
         sizes: ["S", "M", "L", "XL"],
         date: 1716638355448,
         bestseller: false
