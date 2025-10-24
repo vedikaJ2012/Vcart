@@ -21,6 +21,8 @@ import exchange from './exchange.jpg'
 import quality from './quality.jpg'
 import support from './support.jpg'
 import crossIcon from './crossIcon.jpg'
+import starIcon from './starIcon.jpg'
+import starDullIcon from './starDullIcon.jpg'
 
 export const assets = {
     logo,
@@ -33,7 +35,9 @@ export const assets = {
     exchange,
     quality,
     support,
-    crossIcon
+    crossIcon,
+    starIcon,
+    starDullIcon
 }
 
 export const products = [
