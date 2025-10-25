@@ -23,6 +23,7 @@ import support from './support.jpg'
 import crossIcon from './crossIcon.jpg'
 import starIcon from './starIcon.jpg'
 import starDullIcon from './starDullIcon.jpg'
+import binIcon from './binIcon.jpg'
 
 export const assets = {
     logo,
@@ -37,7 +38,8 @@ export const assets = {
     support,
     crossIcon,
     starIcon,
-    starDullIcon
+    starDullIcon,
+    binIcon
 }
 
 export const products = [
