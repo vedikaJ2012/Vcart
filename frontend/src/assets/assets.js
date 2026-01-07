@@ -23,7 +23,11 @@ import support from './support.jpg'
 import crossIcon from './crossIcon.jpg'
 import starIcon from './starIcon.jpg'
 import starDullIcon from './starDullIcon.jpg'
+import stripeLogo from './stripeLogo.jpg'
+import razorpayLogo from './razorpayLogo.jpg'
 import binIcon from './binIcon.jpg'
+import aboutImg from './aboutImg.jpg'
+import contactImg from './contactImg.jpg'
 
 export const assets = {
     logo,
@@ -39,7 +43,11 @@ export const assets = {
     crossIcon,
     starIcon,
     starDullIcon,
-    binIcon
+    binIcon,
+    stripeLogo,
+    razorpayLogo,
+    aboutImg,
+    contactImg
 }
 
 export const products = [
