@@ -77,13 +77,13 @@ export const products = [
     },
     {
         _id: "ac",
-        name: "Unisex Running Shoes",
+        name: "Men Running Shoes",
         description: "Lightweight and durable running shoes for everyday training.",
         price: 1200,
         image: [p3i1],
-        category: "Footwear",
+        category: "Men",
         subCategory: "Winterwear",
-        sizes: ["7", "8", "9", "10"],
+        sizes: ["S", "M", "XL"],
         date: 1716636355448,
         bestseller: true
     },
@@ -95,7 +95,7 @@ export const products = [
         image: [p4i1, p4i2, p4i3],
         category: "Kids",
         subCategory: "Topwear",
-        sizes: ["2-3Y", "3-4Y", "4-5Y"],
+        sizes: ["S", "M", "L"],
         date: 1716637355448,
         bestseller: true
     },
